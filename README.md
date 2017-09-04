@@ -3,13 +3,13 @@
 SESSION 2
 
 Tipos de Tarjetas
-** Animación: reeproducir gift o video muy corto
-** Audio
-** Heroe
-** Miniatura: imagen pequeña con link o texto corto
-** Recibo: para datos de compras
-** Inicio de sesión: cuando necesitamos autenticarnos en otras plataformas
-** videos: reproduce videos de más duracón que las animaciones
+* Animación: reeproducir gift o video muy corto
+* Audio
+* Heroe
+* Miniatura: imagen pequeña con link o texto corto
+* Recibo: para datos de compras
+* Inicio de sesión: cuando necesitamos autenticarnos en otras plataformas
+* videos: reproduce videos de más duracón que las animaciones
 
 
 Activity replyToConversation = activity.CreateReply("Should go to conversation, in adaptive cards format");
